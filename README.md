@@ -66,7 +66,7 @@ This project utilizes StreamLit and Docker to create an interactive web applicat
 ## Usage
 
 - Upload an image of a plant leaf.
-- Click on the "Predict" button to generate predictions for potential diseases.
+- Click on the "Classify" button to generate predictions for potential diseases.
 - Explore the results and take necessary actions for plant care.
 
 
