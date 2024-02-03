@@ -20,7 +20,7 @@ This project utilizes StreamLit and Docker to create an interactive web applicat
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/plant-disease-prediction.git
+    git clone https://github.com/AryanKaushal2002/Plant-Disease-Prediction-Using-StreamLit-and-Docker.git
     ```
 
 2. Navigate to the project directory:
